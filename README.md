@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Bhanu Pratap Sharma!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhanu-sharma-a4063b136/) [![GitHub followers](https://img.shields.io/github/followers/bhanu-sh?label=Follow&style=social&logo=github)](https://github.com/bhanu-sh)
-![Profile views](https://gpvc.arturio.dev/bhanu-sh)
+![Profile views](https://komarev.com/ghpvc/?username=bhanu-sh)
 
 Welcome to my GitHub profile! I'm a passionate full-stack web developer with expertise in various technologies.
 
