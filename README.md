@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer with exp
 
 ## 🛠️ Skills
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS-Expert-blue?logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple?logo=bootstrap) ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript) ![React](https://img.shields.io/badge/React-Expert-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-Expert-green?logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-Expert-lightgrey?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-green?logo=mongodb)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS-Expert-blue?logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple?logo=bootstrap) ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript) ![Next.js](https://img.shields.io/badge/Next.js-Expert-blue?logo=nextdotjs) ![React](https://img.shields.io/badge/React-Expert-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-Expert-green?logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-Expert-lightgrey?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-green?logo=mongodb) 
 
 ## 📈 GitHub Stats
 
