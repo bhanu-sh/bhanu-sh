@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer with exp
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Redux Sample App.
-- 🌱 I’m currently learning Redux and React Native.
 - 💬 Ask me about Web Development and DSA.
 - 📫 How to reach me: bhanu1234sharma@gmail.com
 
